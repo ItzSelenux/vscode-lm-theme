@@ -2,7 +2,7 @@
     "name": "lm-theme",
     "displayName": "Linux Mint Theme",
     "description": "Linux Mint theme for Visual Studio Code.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "icon": "mint.png",
     "publisher": "ItzSelenux",
     "license": "GPL3",
