@@ -1,0 +1,43 @@
+{
+    "name": "lm-theme",
+    "displayName": "Linux Mint Theme",
+    "description": "Linux Mint theme for Visual Studio Code.",
+    "version": "0.1.0",
+    "icon": "mint.png",
+    "publisher": "ItzSelenux",
+    "license": "GPL3",
+    "author": {
+        "email": "zariepcommunication@gmail.com",
+        "name": "ItzSelenux",
+        "url": "https://github.com/hectorjjb"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itzselenux/vscode-lm-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/itzselenux/vscode-lm-theme/issues",
+        "email": "zariepcommunication@gmail.com"
+    },
+    "keywords": [
+        "vscode-theme",
+        "theme"
+    ],
+    "preview": false,
+    "homepage": "https://github.com/itzselenux/vscode-lm-theme",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Linux Mint Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lm-dark.color-theme.json"
+            }
+        ]
+    }
+}

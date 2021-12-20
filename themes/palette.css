@@ -1,0 +1,71 @@
+.green {
+    background: #0e6a0e;
+    border: rgb(14, 106, 14);
+}
+
+.green:hover {
+    background: #107c10;
+    border: rgb(16, 124, 16);
+}
+
+
+.light-green {
+    background: #9bf00b;
+    border: rgb(155,240,11);
+}
+
+.light-green:hover {
+    background: #5dc21e;
+    border: rgb(93, 194, 30);
+}
+
+.black {
+    background: #171717;
+    border: rgb(23, 23, 23);
+}
+
+.dark-gray {
+    background: #2f2f2f;
+    border: rgb(47, 47, 47);
+}
+
+.slate-gray {
+    background: #3a3a3a;
+    border: rgb(58, 58, 58);
+}
+
+.mid-gray {
+    background: #6b6b6b;
+    border: rgb(107, 107, 107);
+}
+
+.light-gray {
+    background: #c2c2c2;
+    border: rgb(194, 194, 194);
+}
+
+.white {
+    background: #f1f1f1;
+    border: rgb(241, 241, 241);
+}
+
+/* Others */
+.yellow {
+    background: #ffd800;
+    border: rgb(255,216,0);
+}
+
+.orange {
+    background: #e3641a;
+    border: rgb(227,100,26);
+}
+
+.blue {
+    background: #2972d1;
+    border: rgb(41,114,209);
+}
+
+.light-blue {
+    background: #83e7Fb;
+    border: rgb(131,231,251);
+}
