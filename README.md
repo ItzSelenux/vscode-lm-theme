@@ -11,4 +11,10 @@ ext install ItzSelenux.lm-theme
 
 ![CPP](images/cpp.png)
 
-![html](images/html.png)
+![Python](images/python.png)
+
+![HTML](images/html.png)
+
+![Godot](images/godot.png)
+
+![Bash](images/bash.png)
