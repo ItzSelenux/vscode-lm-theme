@@ -1,43 +1,50 @@
 {
-    "name": "lm-theme",
-    "displayName": "Linux Mint Theme",
-    "description": "Linux Mint theme for Visual Studio Code.",
-    "version": "1.0.0",
-    "icon": "mint.png",
-    "publisher": "ItzSelenux",
-    "license": "GPL3",
-    "author": {
-        "email": "zariepcommunication@gmail.com",
-        "name": "ItzSelenux",
-        "url": "https://github.com/hectorjjb"
-    },
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/itzselenux/vscode-lm-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/itzselenux/vscode-lm-theme/issues",
-        "email": "zariepcommunication@gmail.com"
-    },
-    "keywords": [
-        "vscode-theme",
-        "theme"
-    ],
-    "preview": false,
-    "homepage": "https://github.com/itzselenux/vscode-lm-theme",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Linux Mint Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/lm-dark.color-theme.json"
-            }
-        ]
-    }
+	"name": "lm-theme",
+	"displayName": "Linux Mint Theme",
+	"description": "Linux Mint theme for Visual Studio Code.",
+	"version": "1.1.1",
+	"icon": "mint.png",
+	"publisher": "ItzSelenux",
+	"license": "GPL3",
+	"author": {
+		"email": "zariepcommunication@gmail.com",
+		"name": "ItzSelenux",
+		"url": "https://github.com/hectorjjb"
+	},
+	"engines": {
+		"vscode": "^1.44.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/itzselenux/vscode-lm-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/itzselenux/vscode-lm-theme/issues",
+		"email": "zariepcommunication@gmail.com"
+	},
+	"keywords": [
+		"vscode-theme",
+		"theme"
+	],
+	"preview": false,
+	"homepage": "https://github.com/itzselenux/vscode-lm-theme",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Linux Mint Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lm-dark.color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e47ac5db-de64-4361-91da-058f3f4fbf48",
+		"publisherId": "a09c4048-b812-497d-b6fb-b10263d2cc74",
+		"publisherDisplayName": "ItzSelenux",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1640736296848
+	}
 }

@@ -1,20 +1,13 @@
-# VSCode Linux Mint Theme
+# Linux Mint Theme
 
 Linux Mint theme for Visual Studio Code
 
-VSCode Marketplace link:
-https://marketplace.visualstudio.com/items?itemName=ItzSelenux.lm-theme
+![CPP](https://github.com/itzselenux/vscode-lm-theme/raw/HEAD/images/cpp.png)
 
-``` 
-ext install ItzSelenux.lm-theme
-```
+![Python](https://github.com/itzselenux/vscode-lm-theme/raw/HEAD/images/python.png)
 
-![CPP](images/cpp.png)
+![HTML](https://github.com/itzselenux/vscode-lm-theme/raw/HEAD/images/html.png)
 
-![Python](images/python.png)
+![Godot](https://github.com/itzselenux/vscode-lm-theme/raw/HEAD/images/godot.png)
 
-![HTML](images/html.png)
-
-![Godot](images/godot.png)
-
-![Bash](images/bash.png)
+![Bash](https://github.com/itzselenux/vscode-lm-theme/raw/HEAD/images/bash.png)
